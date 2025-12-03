@@ -1,2 +1,2 @@
-# rigel_description
-rigel_description ROS package
+# rigel_common
+A bundle of shared ROS packages for Rigel
